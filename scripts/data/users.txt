@@ -1,0 +1,6 @@
+lucie:manarin:admin,dev:non:apt/service:Pass123
+menoua:khatchatrian:dev:oui:vim/nano:Pass456
+frederic:sananes:admin:oui:systemctl/docker:Pass789
+christophe:delon:dev:oui:apt:Pass101
+marc:antoine:admin:oui:find/grep:Pass202
+kevin:trancho:dev:oui:service/top:Pass303

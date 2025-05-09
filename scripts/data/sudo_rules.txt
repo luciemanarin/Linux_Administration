@@ -1,0 +1,6 @@
+lmanarin:ALL:/usr/bin/apt,/usr/sbin/service
+mkhatchatrian:ALL:/usr/bin/vim,/usr/bin/nano
+fsananes:ALL:/usr/bin/systemctl,/usr/bin/docker
+cdelon:buroprofs,dpmoc:/usr/bin/rm
+mantoine:buroprofs,soutien:/usr/bin/apt,/usr/sbin/shutdown,/usr/bin/nano
+ktrancho:buroprofs:/usr/sbin/fdisk,/usr/sbin/repquota
