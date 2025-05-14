@@ -17,7 +17,6 @@ do
     nb=1
     while id "$login" > /dev/null 2>&1; do
         login=${prenom:0:1}${nom}${nb}
-        login=$(echo "$login" | tr '[:upper:]' '[:lower:]')
         nb=$((nb + 1))
     done
 
